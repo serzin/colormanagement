@@ -6,4 +6,4 @@ a:hover { color:#B2B3B4; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #img_49364a9 { position:absolute; left:50%; transform: translateX(-50%); top:2%; width:47%; background:none; height:auto;  }
-#heading_54a1c552 { position:absolute; left: 50%; transform: translateX(-50%); top:43%; width:50%;; height:auto; background:none; font-size:300%; font-family:'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; color:#404040; text-align:center; font-weight:bold;  }
+#heading_54a1c552 { position:absolute; left: 50%; transform: translateX(-50%); top:43%; width:50%;; height:auto; background:none; font-size:200%; font-family:'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; color:#404040; text-align:center; font-weight:bold;  }
