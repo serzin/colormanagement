@@ -1,17 +1,16 @@
 .parent {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
 
 }
 
 .child {
-
+	border: 1px dashed;
 }
 
 .my_head {
   font-family: Verdana;
   font-weight: bold;
   font-size: 250%;
-  width: 25em;
   text-align: center;
 }
